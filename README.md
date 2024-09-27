@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsmeSumitBaitalik
+- 👋 Hi, I’m @SumitBaitalik
 - 👀 I’m interested in Web_Development.
 - 🌱 I’m currently Mern_Stack.
 - 💞️ I’m looking to collaborate on ...
