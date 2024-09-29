@@ -1,5 +1,6 @@
 <h1>Overview</h1>
-
+<h1 style="display: flex; justify-content: center;
+color:#46ede2;">The Weather Application</h1>
 The Weather Application is a responsive web-based tool that provides current weather details based on user input. The application is designed with a sleek, modern UI, featuring a weather card that displays weather icons, temperature, and additional weather-related details. It uses an external API to fetch real-time weather information.
 
 <h1>Features</h1>
