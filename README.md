@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Apartment Rental Application**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 Tech Stack is use **MERN**
 
 - 📫 How to reach me **letmefindwork@gmail.com**
 
