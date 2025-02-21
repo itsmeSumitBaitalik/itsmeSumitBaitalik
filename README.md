@@ -7,7 +7,7 @@
 
 - 🌱 Tech Stack I use **MERN**
 
-- 📫 How to reach me **letmefindwork@gmail.com**
+- 📫 How to reach me **sumitbaitalik2004@gmail.com**
 
 - ⚡ Fun fact **I'm a Developer**
 
