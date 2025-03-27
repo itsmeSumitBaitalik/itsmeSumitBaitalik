@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmesumitbaitalik&label=Profile%20views&color=0e75b6&style=flat" alt="itsmesumitbaitalik" /> </p>
 
-- 🔭 I’m currently working on **Apartment Rental Application**
-
 - 🌱 Tech Stack I use **MERN**
 
 - 📫 How to reach me **sumitbaitalik2004@gmail.com**
